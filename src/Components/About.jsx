@@ -67,6 +67,7 @@ const About = () => {
             fontSize: "1.25rem",
             margin: "2rem 3rem",
             gap: "3rem",
+            color: "black"
           }}
         >
           {skillsList.map((skill) => (
@@ -74,7 +75,7 @@ const About = () => {
           ))}
         </ul>
         <hr />
-        <p style={{ padding: "1rem 3rem 0" }}>{detailOrQuote}</p>
+        <p style={{ padding: "1rem 3rem 0", fontSize: "2rem", color: "black" }}>{detailOrQuote}</p>
       </div>
     </section>
   );
