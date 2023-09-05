@@ -29,7 +29,7 @@ const siteProps = {
   email: "cskipepe@gmail.com",
   gitHub: "Cosaki24",
   instagram: "_cosakiworld",
-  linkedIn: "Collins Kipepe",
+  linkedIn: "collins-kipepe-196abb1b3",
   medium: "",
   twitter: "",
   youTube: "",
