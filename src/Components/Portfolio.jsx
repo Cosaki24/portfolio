@@ -48,6 +48,12 @@ const projectList = [
       "Automatic Weather Station using Arduino, React and Python",
     url: "https://github.com/Cosaki24/weather-station",
   },
+  {
+    title: "Terrarium",
+    description:
+      "A hybrid of Terrarium and Aquariuam. Drag the plants into the container",
+    url: "https://cosaki24.github.io",
+  }
 ];
 
 const Portfolio = () => {
